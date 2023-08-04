@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\Exam1314August\FinalCompetition\bin\Debug\net5.0\FinalCompetition.exe
+E:\ProjectsVisualStudio2022\Exam1314August\FinalCompetition\bin\Debug\net5.0\FinalCompetition.deps.json
+E:\ProjectsVisualStudio2022\Exam1314August\FinalCompetition\bin\Debug\net5.0\FinalCompetition.runtimeconfig.json
+E:\ProjectsVisualStudio2022\Exam1314August\FinalCompetition\bin\Debug\net5.0\FinalCompetition.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\Exam1314August\FinalCompetition\bin\Debug\net5.0\FinalCompetition.dll
+E:\ProjectsVisualStudio2022\Exam1314August\FinalCompetition\bin\Debug\net5.0\FinalCompetition.pdb
+E:\ProjectsVisualStudio2022\Exam1314August\FinalCompetition\obj\Debug\net5.0\FinalCompetition.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\Exam1314August\FinalCompetition\obj\Debug\net5.0\FinalCompetition.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\Exam1314August\FinalCompetition\obj\Debug\net5.0\FinalCompetition.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\Exam1314August\FinalCompetition\obj\Debug\net5.0\FinalCompetition.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\Exam1314August\FinalCompetition\obj\Debug\net5.0\FinalCompetition.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\Exam1314August\FinalCompetition\obj\Debug\net5.0\FinalCompetition.dll
+E:\ProjectsVisualStudio2022\Exam1314August\FinalCompetition\obj\Debug\net5.0\refint\FinalCompetition.dll
+E:\ProjectsVisualStudio2022\Exam1314August\FinalCompetition\obj\Debug\net5.0\FinalCompetition.pdb
+E:\ProjectsVisualStudio2022\Exam1314August\FinalCompetition\obj\Debug\net5.0\FinalCompetition.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\Exam1314August\FinalCompetition\obj\Debug\net5.0\ref\FinalCompetition.dll

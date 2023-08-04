@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\Exam1314August\ShtandZaGrivni\bin\Debug\net5.0\ShtandZaGrivni.exe
+E:\ProjectsVisualStudio2022\Exam1314August\ShtandZaGrivni\bin\Debug\net5.0\ShtandZaGrivni.deps.json
+E:\ProjectsVisualStudio2022\Exam1314August\ShtandZaGrivni\bin\Debug\net5.0\ShtandZaGrivni.runtimeconfig.json
+E:\ProjectsVisualStudio2022\Exam1314August\ShtandZaGrivni\bin\Debug\net5.0\ShtandZaGrivni.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\Exam1314August\ShtandZaGrivni\bin\Debug\net5.0\ShtandZaGrivni.dll
+E:\ProjectsVisualStudio2022\Exam1314August\ShtandZaGrivni\bin\Debug\net5.0\ShtandZaGrivni.pdb
+E:\ProjectsVisualStudio2022\Exam1314August\ShtandZaGrivni\obj\Debug\net5.0\ShtandZaGrivni.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\Exam1314August\ShtandZaGrivni\obj\Debug\net5.0\ShtandZaGrivni.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\Exam1314August\ShtandZaGrivni\obj\Debug\net5.0\ShtandZaGrivni.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\Exam1314August\ShtandZaGrivni\obj\Debug\net5.0\ShtandZaGrivni.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\Exam1314August\ShtandZaGrivni\obj\Debug\net5.0\ShtandZaGrivni.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\Exam1314August\ShtandZaGrivni\obj\Debug\net5.0\ShtandZaGrivni.dll
+E:\ProjectsVisualStudio2022\Exam1314August\ShtandZaGrivni\obj\Debug\net5.0\refint\ShtandZaGrivni.dll
+E:\ProjectsVisualStudio2022\Exam1314August\ShtandZaGrivni\obj\Debug\net5.0\ShtandZaGrivni.pdb
+E:\ProjectsVisualStudio2022\Exam1314August\ShtandZaGrivni\obj\Debug\net5.0\ShtandZaGrivni.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\Exam1314August\ShtandZaGrivni\obj\Debug\net5.0\ref\ShtandZaGrivni.dll

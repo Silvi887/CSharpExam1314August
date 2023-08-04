@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\Exam1314August\Substitute\obj\Debug\net5.0\Substitute.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\Exam1314August\Substitute\obj\Debug\net5.0\Substitute.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\Exam1314August\Substitute\obj\Debug\net5.0\Substitute.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\Exam1314August\Substitute\obj\Debug\net5.0\Substitute.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\Exam1314August\Substitute\obj\Debug\net5.0\Substitute.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\Exam1314August\Substitute\bin\Debug\net5.0\Substitute.exe
+E:\ProjectsVisualStudio2022\Exam1314August\Substitute\bin\Debug\net5.0\Substitute.deps.json
+E:\ProjectsVisualStudio2022\Exam1314August\Substitute\bin\Debug\net5.0\Substitute.runtimeconfig.json
+E:\ProjectsVisualStudio2022\Exam1314August\Substitute\bin\Debug\net5.0\Substitute.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\Exam1314August\Substitute\bin\Debug\net5.0\Substitute.dll
+E:\ProjectsVisualStudio2022\Exam1314August\Substitute\bin\Debug\net5.0\Substitute.pdb
+E:\ProjectsVisualStudio2022\Exam1314August\Substitute\obj\Debug\net5.0\Substitute.dll
+E:\ProjectsVisualStudio2022\Exam1314August\Substitute\obj\Debug\net5.0\refint\Substitute.dll
+E:\ProjectsVisualStudio2022\Exam1314August\Substitute\obj\Debug\net5.0\Substitute.pdb
+E:\ProjectsVisualStudio2022\Exam1314August\Substitute\obj\Debug\net5.0\Substitute.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\Exam1314August\Substitute\obj\Debug\net5.0\ref\Substitute.dll

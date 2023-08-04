@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\Exam1314August\Workout\bin\Debug\net5.0\Workout.exe
+E:\ProjectsVisualStudio2022\Exam1314August\Workout\bin\Debug\net5.0\Workout.deps.json
+E:\ProjectsVisualStudio2022\Exam1314August\Workout\bin\Debug\net5.0\Workout.runtimeconfig.json
+E:\ProjectsVisualStudio2022\Exam1314August\Workout\bin\Debug\net5.0\Workout.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\Exam1314August\Workout\bin\Debug\net5.0\Workout.dll
+E:\ProjectsVisualStudio2022\Exam1314August\Workout\bin\Debug\net5.0\Workout.pdb
+E:\ProjectsVisualStudio2022\Exam1314August\Workout\obj\Debug\net5.0\Workout.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\Exam1314August\Workout\obj\Debug\net5.0\Workout.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\Exam1314August\Workout\obj\Debug\net5.0\Workout.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\Exam1314August\Workout\obj\Debug\net5.0\Workout.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\Exam1314August\Workout\obj\Debug\net5.0\Workout.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\Exam1314August\Workout\obj\Debug\net5.0\Workout.dll
+E:\ProjectsVisualStudio2022\Exam1314August\Workout\obj\Debug\net5.0\refint\Workout.dll
+E:\ProjectsVisualStudio2022\Exam1314August\Workout\obj\Debug\net5.0\Workout.pdb
+E:\ProjectsVisualStudio2022\Exam1314August\Workout\obj\Debug\net5.0\Workout.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\Exam1314August\Workout\obj\Debug\net5.0\ref\Workout.dll

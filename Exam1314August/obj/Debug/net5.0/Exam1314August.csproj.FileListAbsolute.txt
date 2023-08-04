@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\Exam1314August\Exam1314August\bin\Debug\net5.0\Exam1314August.exe
+E:\ProjectsVisualStudio2022\Exam1314August\Exam1314August\bin\Debug\net5.0\Exam1314August.deps.json
+E:\ProjectsVisualStudio2022\Exam1314August\Exam1314August\bin\Debug\net5.0\Exam1314August.runtimeconfig.json
+E:\ProjectsVisualStudio2022\Exam1314August\Exam1314August\bin\Debug\net5.0\Exam1314August.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\Exam1314August\Exam1314August\bin\Debug\net5.0\Exam1314August.dll
+E:\ProjectsVisualStudio2022\Exam1314August\Exam1314August\bin\Debug\net5.0\Exam1314August.pdb
+E:\ProjectsVisualStudio2022\Exam1314August\Exam1314August\obj\Debug\net5.0\Exam1314August.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\Exam1314August\Exam1314August\obj\Debug\net5.0\Exam1314August.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\Exam1314August\Exam1314August\obj\Debug\net5.0\Exam1314August.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\Exam1314August\Exam1314August\obj\Debug\net5.0\Exam1314August.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\Exam1314August\Exam1314August\obj\Debug\net5.0\Exam1314August.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\Exam1314August\Exam1314August\obj\Debug\net5.0\Exam1314August.dll
+E:\ProjectsVisualStudio2022\Exam1314August\Exam1314August\obj\Debug\net5.0\refint\Exam1314August.dll
+E:\ProjectsVisualStudio2022\Exam1314August\Exam1314August\obj\Debug\net5.0\Exam1314August.pdb
+E:\ProjectsVisualStudio2022\Exam1314August\Exam1314August\obj\Debug\net5.0\Exam1314August.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\Exam1314August\Exam1314August\obj\Debug\net5.0\ref\Exam1314August.dll

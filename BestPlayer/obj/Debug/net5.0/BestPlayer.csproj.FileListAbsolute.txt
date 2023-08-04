@@ -1,0 +1,16 @@
+E:\ProjectsVisualStudio2022\Exam1314August\BestPlayer\bin\Debug\net5.0\BestPlayer.exe
+E:\ProjectsVisualStudio2022\Exam1314August\BestPlayer\bin\Debug\net5.0\BestPlayer.deps.json
+E:\ProjectsVisualStudio2022\Exam1314August\BestPlayer\bin\Debug\net5.0\BestPlayer.runtimeconfig.json
+E:\ProjectsVisualStudio2022\Exam1314August\BestPlayer\bin\Debug\net5.0\BestPlayer.runtimeconfig.dev.json
+E:\ProjectsVisualStudio2022\Exam1314August\BestPlayer\bin\Debug\net5.0\BestPlayer.dll
+E:\ProjectsVisualStudio2022\Exam1314August\BestPlayer\bin\Debug\net5.0\BestPlayer.pdb
+E:\ProjectsVisualStudio2022\Exam1314August\BestPlayer\obj\Debug\net5.0\BestPlayer.csproj.AssemblyReference.cache
+E:\ProjectsVisualStudio2022\Exam1314August\BestPlayer\obj\Debug\net5.0\BestPlayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProjectsVisualStudio2022\Exam1314August\BestPlayer\obj\Debug\net5.0\BestPlayer.AssemblyInfoInputs.cache
+E:\ProjectsVisualStudio2022\Exam1314August\BestPlayer\obj\Debug\net5.0\BestPlayer.AssemblyInfo.cs
+E:\ProjectsVisualStudio2022\Exam1314August\BestPlayer\obj\Debug\net5.0\BestPlayer.csproj.CoreCompileInputs.cache
+E:\ProjectsVisualStudio2022\Exam1314August\BestPlayer\obj\Debug\net5.0\BestPlayer.dll
+E:\ProjectsVisualStudio2022\Exam1314August\BestPlayer\obj\Debug\net5.0\refint\BestPlayer.dll
+E:\ProjectsVisualStudio2022\Exam1314August\BestPlayer\obj\Debug\net5.0\BestPlayer.pdb
+E:\ProjectsVisualStudio2022\Exam1314August\BestPlayer\obj\Debug\net5.0\BestPlayer.genruntimeconfig.cache
+E:\ProjectsVisualStudio2022\Exam1314August\BestPlayer\obj\Debug\net5.0\ref\BestPlayer.dll
